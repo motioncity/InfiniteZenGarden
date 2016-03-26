@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Poiret+One|Passion+One|Shadows+Into+Light|Orbitron|Dancing+Script|Chewy|Gloria+Hallelujah|Cinzel");
+.aqua-bg {
+  background-color: #0ff;
+}
+.beige-bg {
+  background-color: #f5f5dc;
+}
+.chocolate-bg {
+  background-color: #d2691e;
+}
+.coral-bg {
+  background-color: #ff7f50;
+}
+.crimson-bg {
+  background-color: #dc143c;
+}
+.limegreen-bg {
+  background-color: #32cd32;
+}
+.fuchsia-bg {
+  background-color: #f0f;
+}
+.lightslategray-bg {
+  background-color: #789;
+}
+.lightsteelblue-bg {
+  background-color: #b0c4de;
+}
+.seagreen-bg {
+  background-color: #2e8b57;
+}
+.bold {
+  font-weight: bold;
+}
+.normalWeight {
+  font-weight: normal;
+}
+.italic {
+  font-style: italic;
+}
+.oblique {
+  font-style: oblique;
+}
+.normalStyle {
+  font-style: normal;
+}
+.smallCaps {
+  font-variant: small-caps;
+}
+.normalVariant {
+  font-variant: normal;
+}
+.pacifico {
+  font-family: 'Pacifico', cursive;
+}
+.poiretOne {
+  font-family: 'Poiret One', cursive;
+}
+.passionOne {
+  font-family: 'Passion One', cursive;
+}
+.shadow {
+  font-family: 'Shadows Into Light', cursive;
+}
+.orb {
+  font-family: 'Orbitron', sans-serif;
+}
+.dancing {
+  font-family: 'Dancing Script', cursive;
+}
+.chewy {
+  font-family: 'Chewy', cursive;
+}
+.gloria {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.gloria .cinzel {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.aqua {
+  color: #0ff;
+}
+.beige {
+  color: #f5f5dc;
+}
+.chocolate {
+  color: #d2691e;
+}
+.coral {
+  color: #ff7f50;
+}
+.crimson {
+  color: #dc143c;
+}
+.limegreen {
+  color: #32cd32;
+}
+.fuchsia {
+  color: #f0f;
+}
+.lightslategray {
+  color: #789;
+}
+.lightsteelblue {
+  color: #b0c4de;
+}
+.seagreen {
+  color: #2e8b57;
+}
+.noBorder {
+  border-style: none;
+}
+.dotted {
+  border-style: dotted;
+}
+.dashed {
+  border-style: dashed;
+}
+.solid {
+  border-style: solid;
+}
+.double {
+  border-style: double;
+}
+.groove {
+  border-style: groove;
+}
+.ridge {
+  border-style: ridge;
+}
+.inset {
+  border-style: inset;
+}
+.outset {
+  border-style: outset;
+}
+.relative {
+  display: relative;
+}
+.column-1-2 {
+  display: block;
+  position: absolute;
+  left: 0;
+  width: 50%;
+}
+.column-2-2 {
+  display: block;
+  position: absolute;
+  right: 0;
+  width: 50%;
+}
+.column-1-3 {
+  display: block;
+  position: absolute;
+  left: 0;
+  width: 33%;
+}
+.column-2-3 {
+  display: block;
+  position: absolute;
+  left: 33%;
+  width: 33%;
+}
+.column-3-3 {
+  display: inline;
+  position: absolute;
+  right: 0;
+  width: 33%;
+}
