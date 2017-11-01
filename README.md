@@ -1,1 +1,3 @@
-A CSS experiment that creates infinite web site styles from different css classes
+**Infinite Zen Gardens**
+
+An experiment I worked on when learning HTML, CSS and JavaScript. It is a website that randomizes it's CSS styling every couple seconds 
